@@ -1,4 +1,4 @@
-## Hi there! I'm Kevin, a Frontend Developer and a CS student at the University of Califoria, Irvine.
+## Hi there! I'm Kevin, a Frontend Developer and a CS student at UC Irvine.
 
 Currently, I'm focusing on familiarizing myself with React while strengthening my UI/UX design skills 🎨 but I'm excited to delve into Data Science as well.
 
