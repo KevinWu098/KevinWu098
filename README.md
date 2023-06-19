@@ -1,8 +1,10 @@
-## Hi there! I'm Kevin 🍖, a Frontend Developer and a CS student at UC Irvine.
+## Hi there! I'm Kevin, a Frontend Developer and a CS student at UC Irvine.
 
 I'm enthusiastic about building and contributing to innovative projects that blend functionality and a strong user experience. Currently, I'm aiming to strengthen my UI/UX skills while exploring new technologies.
 
 **Reach out and chat with me! Find me on [LinkedIn](https://www.linkedin.com/in/kevinwu098/).**
+
+<sub> 🍖 </sub>
 
 <!--
 **KevinWu098/KevinWu098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
