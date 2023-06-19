@@ -1,6 +1,6 @@
 ## Hi there! I'm Kevin, a Frontend Developer and a CS student at UC Irvine.
 
-Currently, I'm focusing on familiarizing myself with React while strengthening my UI/UX design skills 🎨 but I'm excited to delve into Data Science as well.
+I'm enthusiastic about building and contributing to innovative projects that blend functionality and a strong user experience.
 
 **Reach out and chat with me! Find me on [LinkedIn](https://www.linkedin.com/in/kevinwu098/).**
 
