@@ -1,6 +1,6 @@
 ## Hi there! I'm Kevin, a Frontend Developer and a CS student at UC Irvine.
 
-I'm enthusiastic about building and contributing to innovative projects that blend functionality and an engaging user experience. Currently, I'm aiming to strengthen my UI/UX skills while exploring new technologies.
+I'm enthusiastic about building and contributing to innovative projects that blend functionality and an engaging user experience.
 
 **Reach out and chat with me! Find me on [LinkedIn](https://www.linkedin.com/in/kevinwu098/).** 🍖💖
 
