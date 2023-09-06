@@ -1,6 +1,6 @@
 ## Hi there! I'm Kevin, a Frontend Developer and a CS student at UC Irvine.
 
-I'm enthusiastic about building and contributing to innovative projects that blend functionality and an engaging user experience. Currently, I'm creating fullstack applications that touch new technologies while connecting with personal passions. I've also got a soft spot for AI and generative models!
+I'm enthusiastic about building and contributing to innovative projects that blend functionality and an engaging user experience. Currently, I'm creating frontend and fullstack applications that touch new technologies while connecting with personal passions. I've also got a soft spot for AI and generative models!
 
 **Reach out and chat with me! Find me on [LinkedIn](https://www.linkedin.com/in/kevinwu098/).** 🍖💖
 
