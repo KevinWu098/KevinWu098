@@ -1,6 +1,10 @@
 # Hey, I'm Kevin! 💖
 
-I'm a fullstack developer who's currently diving into DevOps and UI/UX design. Currently, I'm building [the only tool that finds articulable GE courses](https://github.com/laurelin60/GE-Z-Frontend), [open-source tools for UCI students](https://github.com/icssc/AntAlmanac), and [tech for social good](https://github.com/ctc-uci/stand-up-to-trash-frontend). In my spare time, you'll probably [find me at a hackathon](https://devpost.com/kevinwu098) or on the pickleball courts.
+I'm a fullstack developer who's expanding my skillset with DevOps and UI/UX design. 
+
+Currently, I'm building [the only tool that finds articulable GE courses](https://github.com/laurelin60/GE-Z-Frontend), [open-source tools for UCI students](https://github.com/icssc), and [tech for social good](https://github.com/ctc-uci). Check out some of my favorite work, like an [accessibility-focused large action model](https://github.com/laurelin60/Agentic) or an [online, interactive life calendar](https://github.com/KevinWu098/lifesquared).
+
+In my spare time, you'll probably [find me at a hackathon](https://devpost.com/kevinwu098) or on the pickleball courts.
 
 I'd love to chat, so shoot me a message on my [LinkedIn](https://www.linkedin.com/in/kevinwu098/)!
 
