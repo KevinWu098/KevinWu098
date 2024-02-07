@@ -1,8 +1,18 @@
-# Hey, I'm Kevin! 💖 I'm...
+# Hey, I'm Kevin! 💖
+
+I'm a fullstack developer who's currently diving into DevOps and UI/UX design. Currently, I'm building [the only tool that finds articulable GE courses](https://github.com/laurelin60/GE-Z-Frontend), [open-source tools for UCI students](https://github.com/icssc/AntAlmanac), and [tech for social good](https://github.com/ctc-uci/stand-up-to-trash-frontend). In my spare time, you'll probably [find me at a hackathon](https://devpost.com/kevinwu098) or on the pickleball courts.
+
+I'd love to chat, so shoot me a message on my [LinkedIn](https://www.linkedin.com/in/kevinwu098/)!
+
+<p align="right">
+  <img width="100" alt="Emoji Kitchen Meat + Hearts" src="https://github.com/KevinWu098/KevinWu098/assets/100006999/dc1657c3-11cc-4148-bcb0-d671f5b296d4">
+</p>
+
+<!-- # Hey, I'm Kevin! 💖 I'm...
 
 { 🎓 } a Computer Science major @ UCI
 
-{ 🧑‍💻 } a Fullstack Developer <!-- — Typescript, JS/HTML/CSS, React, Next.js, Node.js, Express, Prisma, SQL, Tailwind CSS, Python, and more -->
+{ 🧑‍💻 } a Fullstack Developer — Typescript, JS/HTML/CSS, React, Next.js, Node.js, Express, Prisma, SQL, Tailwind CSS, Python, and more
 
 { ⚙️ } learning DevOps, UI/UX Design
 
@@ -40,7 +50,7 @@
 
 <p align="right">
   <img width="100" alt="Emoji Kitchen Meat + Hearts" src="https://github.com/KevinWu098/KevinWu098/assets/100006999/dc1657c3-11cc-4148-bcb0-d671f5b296d4">
-</p>
+</p> -->
 
 
 <!-- I'm enthusiastic about building and contributing to innovative projects that blend functionality and an engaging user experience. Currently, I'm creating frontend and fullstack applications that touch new technologies while connecting with personal passions.
