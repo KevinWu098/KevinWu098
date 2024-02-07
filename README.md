@@ -2,13 +2,13 @@
 
 { 🎓 } a Computer Science major @ UCI
 
-{ 🧑‍💻 } a Fullstack Developer — Typescript, JS/HTML/CSS, React, Next.js, Node.js, Express, Prisma, SQL, Tailwind CSS, Python, and more
+{ 🧑‍💻 } a Fullstack Developer <!-- — Typescript, JS/HTML/CSS, React, Next.js, Node.js, Express, Prisma, SQL, Tailwind CSS, Python, and more -->
 
 { ⚙️ } learning DevOps, UI/UX Design
 
 { 🎱 } an avid Pickleball enjoyer
 
-## I've been working on...
+## ⇢ I've been working on...
 
 { 🤖 } [Agentic](https://github.com/laurelin60/Agentic) — an accessibility-focused large action model leveraging the DOM and Gemini Pro
 
@@ -18,7 +18,7 @@
 
 { 📆 } [Life, Squared](https://github.com/KevinWu098/lifesquared) — an online, interactive life calender inspired by Wait but Why
 
-## Find me at a hackathon...
+## ⇢ Find me at a hackathon...
 
 - WebJam 2023, 🥇 First Place
 - AI Innovation Challenge, 🥇 First Place, Student Experience track
@@ -27,19 +27,19 @@
 - IrvineHacks, Hacker & Workshop Host
 - QWER Hacks 2024, 🏅 Most Inclusive, Best use of TinyMCE
 
-## Currently involved with...
+## ⇢ Currently involved with...
 
 - [@icssc](https://github.com/icssc) - open-source UCI applications 
 - [@ctc](https://github.com/ctc-uci) - tech for social good
 - [@laurelin60](https://github.com/laurelin60) - hackathon enjoyers
 
-## My Links
+## ⇢ My Links
 
 - [Hackathon Portfolio](https://devpost.com/kevinwu098)
-- [Linkedin](https://www.linkedin.com/in/kevinwu098/)
+- [Linkedin](https://www.linkedin.com/in/kevinwu098/) - **Say hi! I'd love to chat :)**
 
 <p align="right">
-<img width="100" alt="Emoji Kitchen Meat + Hearts" src="https://github.com/KevinWu098/KevinWu098/assets/100006999/dc1657c3-11cc-4148-bcb0-d671f5b296d4">
+  <img width="100" alt="Emoji Kitchen Meat + Hearts" src="https://github.com/KevinWu098/KevinWu098/assets/100006999/dc1657c3-11cc-4148-bcb0-d671f5b296d4">
 </p>
 
 
