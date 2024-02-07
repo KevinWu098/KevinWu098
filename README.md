@@ -1,16 +1,52 @@
-## Hi there! I'm Kevin, a Frontend Developer and a CS student at UC Irvine.
+# Hey, I'm Kevin! 💖 I'm...
 
-I'm enthusiastic about building and contributing to innovative projects that blend functionality and an engaging user experience. Currently, I'm creating frontend and fullstack applications that touch new technologies while connecting with personal passions.
+{ 🎓 } a Computer Science major @ UCI
 
-My most comfortable tech stack is React with any flavor of CSS (vanilla, Tailwind, SCSS/SASS), but I also work well with component libraries (MaterialUI, etc). Additionally, I have experience with Node.js, Express, and MongoDB, enabling me to build fullstack applications.
+{ 🧑‍💻 } a Fullstack Developer — Typescript, JS/HTML/CSS, React, Next.js, Node.js, Express, Prisma, SQL, Tailwind CSS, Python, and more
 
-**Reach out and chat with me! Find me on [LinkedIn](https://www.linkedin.com/in/kevinwu098/) or my [personal website](https://k3v.in/)!**
+{ ⚙️ } learning DevOps, UI/UX Design
+
+{ 🎱 } an avid Pickleball enjoyer
+
+## I've been working on...
+
+{ 🤖 } [Agentic](https://github.com/laurelin60/Agentic) — an accessibility-focused large action model leveraging the DOM and Gemini Pro
+
+{ 📚 } [GE-Z](https://github.com/laurelin60/GE-Z-Frontend) — the only tool that finds online, articulable GE courses from California CCs
+
+{ 🐜 } [AntAlmanac](https://github.com/icssc/AntAlmanac) — an open-source course planner for UCI students
+
+{ 📆 } [Life, Squared](https://github.com/KevinWu098/lifesquared) — an online, interactive life calender inspired by Wait but Why
+
+## Find me at a hackathon...
+
+- WebJam 2023, 🥇 First Place
+- AI Innovation Challenge, 🥇 First Place, Student Experience track
+- SB Hacks X, 🥇 Grand Prize
+- Rose Hack 2024, 🏅 UI/UX Track Winner
+- IrvineHacks, Hacker & Workshop Host
+- QWER Hacks 2024, 🏅 Most Inclusive, Best use of TinyMCE
+
+## Currently involved with...
+
+- [@icssc](https://github.com/icssc) - open-source UCI applications 
+- [@ctc](https://github.com/ctc-uci) - tech for social good
+- [@laurelin60](https://github.com/laurelin60) - hackathon enjoyers
+
+## My Links
+
+- [Hackathon Portfolio](https://devpost.com/kevinwu098)
+- [Linkedin](https://www.linkedin.com/in/kevinwu098/)
 
 <p align="right">
 <img width="100" alt="Emoji Kitchen Meat + Hearts" src="https://github.com/KevinWu098/KevinWu098/assets/100006999/dc1657c3-11cc-4148-bcb0-d671f5b296d4">
 </p>
 
 
+<!-- I'm enthusiastic about building and contributing to innovative projects that blend functionality and an engaging user experience. Currently, I'm creating frontend and fullstack applications that touch new technologies while connecting with personal passions.
+
+My most comfortable tech stack is React with any flavor of CSS (vanilla, Tailwind, SCSS/SASS), but I also work well with component libraries (MaterialUI, etc). Additionally, I have experience with Node.js, Express, and MongoDB, enabling me to build fullstack applications.
+-->
 
 <!--
 **KevinWu098/KevinWu098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
