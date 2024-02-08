@@ -1,5 +1,20 @@
 # Hey, I'm Kevin! 💖
 
+<p align="left">
+  <img src=https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB alt="React">
+  <img src=https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white alt="Typescript">
+  <img src=https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white alt="Next.js">
+  <img src=https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white alt="Tailwind">
+  <img src=https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white alt="Prisma">
+  <img src=https://img.shields.io/badge/tRPC-2596BE?logo=trpc&logoColor=fff&style=for-the-badge alt="TRPC">
+  <img src=https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white alt="Node.js">
+  <img src=https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white alt="Express">
+  <img src=https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white alt="MongoDB">
+  <img src=https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue alt="Python">
+  <img src=https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white alt="SvelteKit">
+  <img src=https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white alt="Figma">
+</p>
+
 I'm a fullstack developer who's currently expanding my skillset with DevOps and UI/UX design. Right now, I'm building [articulation tools](https://github.com/laurelin60/GE-Z-Frontend), [open-source @ UCI](https://github.com/icssc), and [tech for social good](https://github.com/ctc-uci). 
 
 Check out some of my favorite work:
