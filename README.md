@@ -12,7 +12,7 @@
   <img src=https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white alt="Figma">
 </p>
 
-I'm a fullstack developer who's currently expanding my skillset with DevOps and UI/UX design. Right now, I'm building [articulation tools](https://github.com/laurelin60/GE-Z-Frontend), [open-source @ UCI](https://github.com/icssc), and [tech for social good](https://github.com/ctc-uci). 
+I'm a fullstack developer who's currently expanding my skillset into DevOps. Right now, I'm building [articulation tools](https://github.com/laurelin60/GE-Z-Frontend), [open-source @ UCI](https://github.com/icssc), and [tech for social good](https://github.com/ctc-uci). 
 
 Check out some of my favorite work:
 - [An accessibility-focused large action model](https://github.com/laurelin60/Agentic)
