@@ -18,7 +18,7 @@ Check out some of my favorite work:
 - [An accessibility-focused large action model](https://github.com/laurelin60/Agentic)
 - [An online, interactive life calendar](https://github.com/KevinWu098/lifesquared)
 
-In my spare time, you'll probably [find me at a hackathon](https://devpost.com/kevinwu098) or on the pickleball courts.
+In my free time, you'll probably [find me at a hackathon](https://devpost.com/kevinwu098) or on the pickleball courts.
 
 I'd love to chat, so shoot me a message on my [LinkedIn](https://www.linkedin.com/in/kevinwu098/)!
 
