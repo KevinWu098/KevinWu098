@@ -12,11 +12,11 @@
   <img src=https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white alt="Figma">
 </p>
 
-I'm a fullstack developer who's currently expanding my skillset into DevOps. Right now, I'm building [articulation tools](https://github.com/laurelin60/GE-Z-Frontend) and [open-source @ UCI](https://github.com/icssc).
+I'm a fullstack developer who's currently expanding my skillset into DevOps. Right now, I'm building 📚 [articulation tools](https://github.com/laurelin60/GE-Z-Frontend) and 🐜 [open-source @ UCI](https://github.com/icssc).
 
 Check out some of my favorite work:
-- [An accessibility-focused large action model](https://github.com/laurelin60/Agentic)
-- [An online, interactive life calendar](https://github.com/KevinWu098/lifesquared)
+- ⚙️ [An accessibility-focused large action model](https://github.com/laurelin60/Agentic)
+- 📆 [An online, interactive life calendar](https://github.com/KevinWu098/lifesquared)
 
 In my free time, you'll probably [find me at a hackathon](https://devpost.com/kevinwu098) or on the pickleball courts.
 
