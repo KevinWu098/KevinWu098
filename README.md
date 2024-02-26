@@ -15,7 +15,7 @@
 I'm a fullstack developer who's currently expanding my skillset into DevOps. Right now, I'm building 📚 [articulation tools](https://github.com/laurelin60/GE-Z-Frontend) and 🐜 [open-source @ UCI](https://github.com/icssc).
 
 Check out some of my favorite work:
-- ⚙️ [An accessibility-focused large action model](https://github.com/laurelin60/Agentic)
+- 🤖 [An accessibility-focused large action model](https://github.com/laurelin60/Agentic)
 - 📆 [An online, interactive life calendar](https://github.com/KevinWu098/lifesquared)
 - 🦆 [Learn ASL by hunting radioactive ducks](https://github.com/laurelin60/radioactive-duck-game-client)
 
