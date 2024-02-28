@@ -24,7 +24,10 @@ In my free time, you'll probably [find me at a hackathon](https://devpost.com/ke
 I'd love to chat, so shoot me a message on my [LinkedIn](https://www.linkedin.com/in/kevinwu098/)!
 
 <p align="right">
-  <img width="100" alt="Emoji Kitchen Meat + Hearts" src="https://github.com/KevinWu098/KevinWu098/assets/100006999/dc1657c3-11cc-4148-bcb0-d671f5b296d4">
+  <sub> Click me! ➡️ </sub>
+  <a href="https://k3v.in">
+    <img width="100" alt="Emoji Kitchen Meat + Hearts" src="https://github.com/KevinWu098/KevinWu098/assets/100006999/dc1657c3-11cc-4148-bcb0-d671f5b296d4">
+  </a>
 </p>
 
 <!-- # Hey, I'm Kevin! 💖 I'm...
