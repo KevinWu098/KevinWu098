@@ -18,6 +18,7 @@ Check out some of my favorite work:
 - 🤖 [An accessibility-focused large action model](https://github.com/laurelin60/Agentic)
 - 📆 [An online, interactive life calendar](https://github.com/KevinWu098/lifesquared)
 - 🦆 [Learn ASL by hunting radioactive ducks](https://github.com/laurelin60/radioactive-duck-game-client)
+- 🌲 [Laurelin60, the Github Org hosting projects I build with friends](https://github.com/laurelin60)
 
 In my free time, you'll probably [find me at a hackathon](https://devpost.com/kevinwu098) or on the pickleball courts.
 
