@@ -15,10 +15,10 @@
 I'm a fullstack developer who's currently expanding my skillset into DevOps. Right now, I'm building 📚 [articulation tools](https://github.com/laurelin60/GE-Z-Frontend) and 🐜 [open-source @ UCI](https://github.com/icssc).
 
 Check out some of my favorite work:
-- 🤖 [An accessibility-focused large action model](https://github.com/laurelin60/Agentic)
-- 📆 [An online, interactive life calendar](https://github.com/KevinWu098/lifesquared)
-- 🦆 [Learn ASL by hunting radioactive ducks](https://github.com/laurelin60/radioactive-duck-game-client)
-- 🌲 [Laurelin60, the Github Org hosting projects I build with friends](https://github.com/laurelin60)
+- 🤖 [Agentic](https://github.com/laurelin60/Agentic), an accessibility-focused large action model
+- 📆 [Life Squared](https://github.com/KevinWu098/lifesquared), an online, interactive life calendar
+- 🦆 [Radioactive Duck Hunt](https://github.com/laurelin60/radioactive-duck-game-client), a game that helps you learn ASL by hunting radioactive ducks
+- 🌲 [Laurelin60](https://github.com/laurelin60), the Github Org hosting projects I build with friends
 
 In my free time, you'll probably [find me at a hackathon](https://devpost.com/kevinwu098) or on the pickleball courts.
 
