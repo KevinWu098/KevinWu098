@@ -14,15 +14,24 @@
 
 I'm a fullstack developer who's currently expanding my skillset into DevOps. Right now, I'm building 📚 [articulation tools](https://github.com/laurelin60/GE-Z-Frontend) and 🐜 [open-source @ UCI](https://github.com/icssc).
 
+In my free time, you'll probably [find me at a hackathon](https://devpost.com/kevinwu098) or on the pickleball courts.
+
+I'd love to chat, so shoot me a message on my [LinkedIn](https://www.linkedin.com/in/kevinwu098/)!
+
+## Past Projects ⚡
 Check out some of my favorite work:
 - 🤖 [Agentic](https://github.com/laurelin60/Agentic), an accessibility-focused large action model
 - 📆 [Life Squared](https://github.com/KevinWu098/lifesquared), an online, interactive life calendar
 - 🦆 [Radioactive Duck Hunt](https://github.com/laurelin60/radioactive-duck-game-client), a game that helps you learn ASL by hunting radioactive ducks
 - 🌲 [Laurelin60](https://github.com/laurelin60), the Github Org hosting projects I build with friends
 
-In my free time, you'll probably [find me at a hackathon](https://devpost.com/kevinwu098) or on the pickleball courts.
+## Hackathons 👨‍💻
+I love [hackathons](https://devpost.com/kevinwu098)! I usually handle the frontend, but I also work on ideation at the beginning and fullstack integraton at the end.
 
-I'd love to chat, so shoot me a message on my [LinkedIn](https://www.linkedin.com/in/kevinwu098/)!
+Currently, I have:
+- **5** hackathon wins 🏅
+- **7** hackathons attended 🕑
+
 
 <p align="right">
   <sub> Click me! ➡️ </sub>
