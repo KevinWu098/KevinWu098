@@ -29,7 +29,7 @@ Check out some of my favorite work:
 I love [hackathons](https://devpost.com/kevinwu098)! I usually handle the frontend, but I also work on ideation at the beginning and fullstack integraton at the end.
 
 Currently, I have:
-- **7** hackathon wins (incl. Best Overall @ [UCSB](https://devpost.com/software/agentic) & Best Overall @ [UCSD](https://devpost.com/software/travel-safe)) 🏅
+- **7** hackathon wins (incl. Best Overall @ [UCSB](https://devpost.com/software/agentic) & [UCSD](https://devpost.com/software/travel-safe)) 🏅
 - **9** hackathons attended 🕑
 
 
