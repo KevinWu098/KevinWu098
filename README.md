@@ -31,6 +31,7 @@ I love [hackathons](https://devpost.com/kevinwu098)! I usually handle the fronte
 Currently, I have:
 - **7** hackathon wins (incl. Best Overall @ [UCSB](https://devpost.com/software/agentic) & [UCSD](https://devpost.com/software/travel-safe)) 🏅
 - **9** hackathons attended 🕑
+- Co-hosted **2** hackathon workshops ✏️
 
 
 <p align="right">
