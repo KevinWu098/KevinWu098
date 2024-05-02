@@ -26,7 +26,7 @@ Check out some of my favorite work:
 - 🌲 [Laurelin60](https://github.com/laurelin60), the Github Org hosting projects I build with friends
 
 ## Hackathons 👨‍💻
-I love [hackathons](https://devpost.com/kevinwu098)! I usually handle the frontend and project pitching, but I also work on ideation at the beginning and fullstack integraton at the end.
+I love [hackathons](https://devpost.com/kevinwu098)! I usually handle the frontend and project pitching, but I also work on ideation at the beginning and fullstack integraton.
 
 Currently, I have:
 - **8** hackathon wins (incl. Best Overall @ [UCSB](https://devpost.com/software/agentic) & [UCSD](https://devpost.com/software/travel-safe)) 🏅
