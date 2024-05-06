@@ -30,7 +30,7 @@ I love [hackathons](https://devpost.com/kevinwu098)! I usually handle the fronte
 
 Currently, I have:
 - **8** hackathon wins (incl. Best Overall @ [UCSB](https://devpost.com/software/agentic) & [UCSD](https://devpost.com/software/travel-safe)) 🏅
-- **10** hackathons attended 🕑
+- **11** hackathons attended 🕑
 
 
 <p align="right">
