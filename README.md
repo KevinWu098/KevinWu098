@@ -21,7 +21,6 @@ I'd love to chat, so shoot me a message on my [LinkedIn](https://www.linkedin.co
 ## Past Projects ⚡
 Check out some of my favorite work:
 - 🤖 [Agentic](https://github.com/laurelin60/Agentic), an accessibility-focused large action model
-- 📆 [Life Squared](https://github.com/KevinWu098/lifesquared), an online, interactive life calendar
 - 🦆 [Radioactive Duck Hunt](https://github.com/laurelin60/radioactive-duck-game-client), a game that helps you learn ASL by hunting radioactive ducks
 - 🌲 [Laurelin60](https://github.com/laurelin60), the Github Org hosting projects I build with friends
 
