@@ -16,7 +16,7 @@ I'm a fullstack developer who's currently expanding my skillset into DevOps. Rig
 
 In my free time, you'll probably [find me at a hackathon](https://devpost.com/kevinwu098) or on the pickleball courts.
 
-I'd love to chat, so shoot me a message on my [LinkedIn](https://www.linkedin.com/in/kevinwu098/)!
+I'd love to chat, so shoot me a message on my [LinkedIn](https://www.linkedin.com/in/kevinwu098)!
 
 ## Past Projects ⚡
 Check out some of my favorite work:
