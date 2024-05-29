@@ -28,7 +28,7 @@ Check out some of my favorite work:
 I love [hackathons](https://devpost.com/kevinwu098)! I usually handle the frontend and project pitching, but I also work on ideation at the beginning and fullstack integraton at the end. 🚀
 
 Currently, I have:
-- **8** hackathon wins (incl. Best Overall @ [UCSB](https://devpost.com/software/agentic) & [UCSD](https://devpost.com/software/travel-safe)) 🏅
+- **9** hackathon wins (incl. Best Overall @ [UCSB](https://devpost.com/software/agentic) & [UCSD](https://devpost.com/software/travel-safe)) 🏅
 - **11** hackathons attended 🕑
 
 
