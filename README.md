@@ -1,9 +1,9 @@
-<!--
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/KevinWu098/KevinWu098/assets/100006999/a3f98e69-9536-4bc4-9f7f-aef497d382be');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/KevinWu098/KevinWu098/assets/100006999/4ec7eea4-7a86-4e8f-828b-a54afde7497c');]{x0000}$}
 ```
--->
+
 # Hey, I'm Kevin! 💖
+
 
 <p align="left">
   <img src=https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB alt="React">
