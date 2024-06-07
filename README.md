@@ -1,5 +1,5 @@
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/KevinWu098/KevinWu098/assets/100006999/4ec7eea4-7a86-4e8f-828b-a54afde7497c');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.25; background: url('https://github.com/KevinWu098/KevinWu098/assets/100006999/8e6bad6f-17ad-4b60-8d30-3bb90ba60a77');]{x0000}$}
 ```
 
 # Hey, I'm Kevin! 💖
