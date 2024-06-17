@@ -13,9 +13,7 @@
   <img src=https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white alt="Figma">
 </p>
 
-I'm a fullstack developer currently building 📚 [articulation tools](https://github.com/laurelin60/GE-Z-Frontend) and 🐜 [open-source @ UCI](https://github.com/icssc).
-
-In my free time, you'll probably [find me at a hackathon](https://devpost.com/kevinwu098) or on the pickleball courts.
+I'm a fullstack developer currently building 📚 [articulation tools](https://github.com/laurelin60/GE-Z-Frontend) and 🐜 [open-source @ UCI](https://github.com/icssc). In my free time, you'll probably [find me at a hackathon](https://devpost.com/kevinwu098) or on the pickleball courts.
 
 I'd love to chat, so shoot me a message on my [LinkedIn](https://www.linkedin.com/in/kevinwu098)!
 
