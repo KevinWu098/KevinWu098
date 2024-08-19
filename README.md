@@ -10,6 +10,7 @@
   <img src=https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white alt="Express">
   <img src=https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white alt="SvelteKit">
   <img src=https://img.shields.io/badge/Python-4076A5?style=for-the-badge&logo=python&logoColor=white alt="Python">
+  <img src=https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white alt="Go">
   <img src=https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white alt="Figma">
 </p>
 
