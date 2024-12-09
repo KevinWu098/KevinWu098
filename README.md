@@ -1,5 +1,4 @@
-# Hey, I'm Kevin! 💖
-
+## Hey, I'm Kevin! 💖
 
 <p align="left">
   <img src=https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB alt="React">
@@ -16,14 +15,17 @@
 
 I'm a fullstack developer building products, [competing at hackathons](https://devpost.com/kevinwu098), and playing pickleball. 
 
-## Past (and Present) Projects ⚡
-Check out some of my favorite work:
-- 🎓 [GE-Z](https://github.com/laurelin60/ge-z-frontend), a platform helping UC students get course credit at community colleges
-- 🤖 [Agentic](https://github.com/laurelin60/Agentic), an accessibility-focused large action model
-- 🦆 [Radioactive Duck Hunt](https://github.com/laurelin60/radioactive-duck-game-client), a game that helps you learn ASL by hunting radioactive ducks
-- 🌲 [Laurelin60](https://github.com/laurelin60), the Github Org hosting projects I build with friends
+### Current
+- Technical Director @ CTC, creating pro-bono software solutions for non-profits
+- Software Developer @ UCI Rocket Project, building mission control interfaces
+- SWE Research Assistant @ daplab, supporting student outcomes with ML + EdTech
+- Open Source contributions @ [ICS Student Council](https://github.com/icssc/)
+- Projects @ [Laurelin60](https://github.com/laurelin60)
 
-## Hackathons 👨‍💻
+### Prev
+- Software Engineering Intern @ Stoke Space, working on Fusion — engineering productivity
+
+## Hackathons
 I love [hackathons](https://devpost.com/kevinwu098)! I usually handle the frontend and project pitching, but I also work on ideation at the beginning and fullstack integraton at the end. 🚀
 
 Currently, I have:
