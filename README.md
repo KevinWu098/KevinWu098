@@ -16,7 +16,6 @@
 I'm a fullstack developer building products, [competing at hackathons](https://devpost.com/kevinwu098), and playing pickleball. 
 
 ### Current
-- Incoming SWE intern @ 💸
 - Technical Director @ CTC, creating pro-bono software solutions for non-profits
 - Software Developer @ UCI Rocket Project, building mission control interfaces
 - SWE Research Assistant @ daplab, supporting student outcomes with ML + EdTech
