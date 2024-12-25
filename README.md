@@ -26,7 +26,8 @@ I'm a fullstack developer building products, [competing at hackathons](https://d
 - Software Engineering Intern @ Stoke Space, working on Fusion — engineering productivity
 
 ## Hackathons
-I love [hackathons](https://devpost.com/kevinwu098)! I usually handle the frontend and project pitching, but I also work on ideation at the beginning and fullstack integraton at the end. 🚀 Currently, I have **9** hackathon wins (incl. Grand Prize @ [UC Berkeley](https://devpost.com/software/dispatch-ai))and have attended **12** hackathons!
+I love [hackathons](https://devpost.com/kevinwu098)! I usually handle the frontend and project pitching, but I also work on ideation at the beginning and fullstack integraton at the end. 🚀 
+Currently, I have **9** hackathon wins (incl. Grand Prize @ [UC Berkeley](https://devpost.com/software/dispatch-ai)) and have attended **12** hackathons!
 
 
 <p align="right">
