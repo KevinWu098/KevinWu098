@@ -17,7 +17,7 @@ I'm a fullstack developer building products, [competing at hackathons](https://d
 
 Studying Computer Science at the University of California, Irvine. When not in lecture, I'm crafting software across Aerospace, Education, and Open Source.
 
-Spending Winter at Mercury on the Creative Products team. Incoming at 💸, 🚀. Previous at Stoke Space, working on [Fusion](https://www.stokefusion.com/).
+Spending Winter at Mercury on the Creative Products team. Incoming at 💸 (S25), 🚀 (F25). Previously at Stoke Space, working on [Fusion](https://www.stokefusion.com/).
 
 ## Hackathons
 I love hackathons! I usually handle the frontend and project pitching, but I also work on ideation at the beginning and fullstack integraton at the end. 🚀 
