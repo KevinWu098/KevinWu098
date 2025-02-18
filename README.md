@@ -20,7 +20,7 @@ Studying Computer Science at the University of California, Irvine. When not in l
 Spending Winter at Mercury on the Creative Products team. Incoming at 💸 (S25), 🚀 (F25). Previously at Stoke Space, working on [Fusion](https://www.stokefusion.com/).
 
 ## Hackathons
-I love hackathons! I usually handle the frontend and project pitching, but I also work on ideation and fullstack integraton. Currently, I have **9** hackathon wins (incl. Grand Prize @ [UC Berkeley](https://devpost.com/software/dispatch-ai)) and have attended **12** hackathons!
+I love hackathons! I usually handle the frontend and project pitching, but I also work on ideation and fullstack integraton. Currently, I have **9** hackathon wins (incl. [Grand Prize @ UC Berkeley](https://devpost.com/software/dispatch-ai))!
 
 ##
 
