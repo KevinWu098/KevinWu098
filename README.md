@@ -15,7 +15,7 @@
 
 I'm a fullstack developer building products, [competing at hackathons](https://devpost.com/kevinwu098), and playing pickleball. Currently studying Computer Science at the University of California, Irvine.
 
-Spending Winter at Mercury on the Creative Products team. Incoming at 💸 (S25), 🚀 (F25). Previously at Stoke Space, working on [Fusion](https://www.stokefusion.com/).
+Spending Winter at Mercury on the Creative Products team. Previously at Stoke Space, working on [Fusion](https://www.stokefusion.com/).
 
 ## Hackathons
 I love hackathons! I usually handle the frontend and project pitching, but I also work on ideation and fullstack integraton. Currently, I have **9** hackathon wins (incl. [Grand Prize @ UC Berkeley](https://devpost.com/software/dispatch-ai))!
