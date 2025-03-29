@@ -13,9 +13,7 @@
   <img src=https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white alt="Figma">
 </p>
 
-I'm a fullstack developer building products, [competing at hackathons](https://devpost.com/kevinwu098), and playing pickleball. 
-
-Studying Computer Science at the University of California, Irvine. When not in lecture, I'm crafting software across Aerospace, Education, and Open Source.
+I'm a fullstack developer building products, [competing at hackathons](https://devpost.com/kevinwu098), and playing pickleball. Currently studying Computer Science at the University of California, Irvine.
 
 Spending Winter at Mercury on the Creative Products team. Incoming at 💸 (S25), 🚀 (F25). Previously at Stoke Space, working on [Fusion](https://www.stokefusion.com/).
 
