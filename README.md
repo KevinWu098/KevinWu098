@@ -10,7 +10,6 @@
   <img src=https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white alt="SvelteKit">
   <img src=https://img.shields.io/badge/Python-4076A5?style=for-the-badge&logo=python&logoColor=white alt="Python">
   <img src=https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white alt="Go">
-
 </p>
 
 I'm a fullstack developer building products, [competing at hackathons](https://devpost.com/kevinwu098), and playing pickleball. Studying Computer Science at the University of California, Irvine.
@@ -23,12 +22,3 @@ I love hackathons! I usually handle the frontend and project pitching, but I als
 ##
 
 [website](https://kevinwu.co/) | [hackathons](https://devpost.com/kevinwu098) | [linkedin](https://www.linkedin.com/in/kevinwu098/)
-
-<!--
-<p align="right">
-  <sub> Click me! ➡️ </sub>
-  <a href="https://k3v.in">
-    <img width="100" alt="Emoji Kitchen Meat + Hearts" src="https://github.com/KevinWu098/KevinWu098/assets/100006999/dc1657c3-11cc-4148-bcb0-d671f5b296d4">
-  </a>
-</p>
--->
