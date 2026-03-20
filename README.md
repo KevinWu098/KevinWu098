@@ -17,7 +17,7 @@ I'm a fullstack developer building products, [competing at hackathons](https://d
 Previously Stripe, Mercury, Stoke Space.
 
 ## Hackathons
-I love hackathons! I usually handle the frontend and project pitching, but I also work on ideation and fullstack integraton. Currently, I have **9** hackathon wins (incl. [Grand Prize @ UC Berkeley](https://devpost.com/software/dispatch-ai))!
+I love hackathons! I usually handle the frontend and project pitching, but I also work on ideation and fullstack integration. Currently, I have **9** hackathon wins (incl. [Grand Prize @ UC Berkeley](https://devpost.com/software/dispatch-ai))!
 
 ##
 
